@@ -21,7 +21,7 @@ Canaree: Music Player
 Complete music player published in the Play Store. Heavily relies on Dagger, ~~RxJava~~ kotlin coroutines and Clean architecture.
 
 ## All branches of this repo are in active development, so things can be broken
-If you just want to check the last stable version, point to this commit -> 66a41bd06b43752f198d05a2e67eda4b1b81f998
+If you just want to check the last stable version, point to `stable` branch
 
 ## Screenshots
 <div style="dispaly:flex">
